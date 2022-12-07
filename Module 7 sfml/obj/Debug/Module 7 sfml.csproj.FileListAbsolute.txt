@@ -1,0 +1,13 @@
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\Module 7 sfml.exe.config
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\Module 7 sfml.exe
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\Module 7 sfml.pdb
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\sfml-audio.dll
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\sfml-graphics.dll
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\sfml-learning.dll
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\sfml-system.dll
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\bin\Debug\sfml-window.dll
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\obj\Debug\Module 7 sfml.csproj.AssemblyReference.cache
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\obj\Debug\Module 7 sfml.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\obj\Debug\Module 7 sfml.csproj.CopyComplete
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\obj\Debug\Module 7 sfml.exe
+C:\Users\ivanm\source\repos\Module 7 sfml\Module 7 sfml\obj\Debug\Module 7 sfml.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module 7 sfml", "Module 7 sfml\Module 7 sfml.csproj", "{DEC681B4-15CF-4D70-A537-202EDC94FF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC681B4-15CF-4D70-A537-202EDC94FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC681B4-15CF-4D70-A537-202EDC94FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC681B4-15CF-4D70-A537-202EDC94FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC681B4-15CF-4D70-A537-202EDC94FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F24E6390-F59A-46B3-83D5-2D8C552767A7}
+	EndGlobalSection
+EndGlobal
